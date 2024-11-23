@@ -1,0 +1,27 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "aether-jirachi",
+            "pokemon": "jirachi",
+            "presets": ["natural"],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "50-70",
+            "weight": 5.0,
+            "specification": {
+              "minLevel": 50,
+              "maxLevel": 70
+            },
+            "condition": {
+
+              "biomes": ["aether:skyroot_forest", "aether:skyroot_woodland","aether:skyroot_grove", "aether:skyroot_meadow"]
+              }
+            }
+          
+        
+    ]
+ }

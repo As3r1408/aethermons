@@ -1,0 +1,23 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "aether-togekiss",
+            "pokemon": "togekiss",
+            "presets": ["natural"],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "35-50",
+            "weight": 70.0,
+
+            "condition": {
+
+              "biomes": ["aether:skyroot_forest", "aether:skyroot_woodland","aether:skyroot_grove", "aether:skyroot_meadow"]
+
+            }
+          }
+    ]
+ }

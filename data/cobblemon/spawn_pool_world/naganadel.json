@@ -1,0 +1,23 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+      {
+        "id": "aether-naganadel",
+        "pokemon": "naganadel",
+        "presets": ["natural"],
+        "type": "pokemon",
+        "context": "grounded",
+        "bucket": "rare",
+        "level": "65-75",
+        "weight": 10.0,
+        "condition": {
+
+          "biomes": ["aether:skyroot_forest", "aether:skyroot_woodland","aether:skyroot_grove", "aether:skyroot_meadow"]
+
+        }
+      }
+    ]
+  }
+  
