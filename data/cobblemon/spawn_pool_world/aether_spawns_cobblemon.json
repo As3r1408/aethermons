@@ -1,0 +1,1372 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "aether_carbink_1",
+            "pokemon": "carbink",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_forest"
+                ]
+            }
+        },
+        {
+            "id": "aether_swablu_1",
+            "pokemon": "swablu",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_forest",
+                    "aether:skyroot_grove"
+                ]
+            }
+        },
+        {
+            "id": "aether_bonsly_1",
+            "pokemon": "bonsly",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_forest"
+                ]
+            }
+        },
+        {
+            "id": "aether_dedenne_1",
+            "pokemon": "dedenne",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_forest"
+                ]
+            }
+        },
+        {
+            "id": "aether_vulpix_alola_1",
+            "pokemon": "vulpix alolan",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_forest"
+                ]
+            }
+        },
+        {
+            "id": "aether_flabebe_1",
+            "pokemon": "flabebe",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_forest",
+                    "aether:skyroot_meadow",
+                    "aether:skyroot_grove"
+                ]
+            }
+        },
+        {
+            "id": "aether_munna_1",
+            "pokemon": "munna",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_forest"
+                ]
+            }
+        },
+        {
+            "id": "aether_happiny_1",
+            "pokemon": "happiny",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_meadow"
+                ]
+            }
+        },
+        {
+            "id": "aether_cottonee_1",
+            "pokemon": "cottonee",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_meadow"
+                ]
+            }
+        },
+        {
+            "id": "aether_ralts_1",
+            "pokemon": "ralts",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_meadow",
+                    "aether:skyroot_woodland"
+                ]
+            }
+        },
+        {
+            "id": "aether_pichu_1",
+            "pokemon": "pichu",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_meadow"
+                ]
+            }
+        },
+        {
+            "id": "aether_ponyta_galar_1",
+            "pokemon": "ponyta galar",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_meadow"
+                ]
+            }
+        },
+        {
+            "id": "aether_fomantis_1",
+            "pokemon": "fomantis",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_meadow"
+                ]
+            }
+        },
+        {
+            "id": "aether_audino_1",
+            "pokemon": "audino",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_grove"
+                ]
+            }
+        },
+        {
+            "id": "aether_tinkatink_1",
+            "pokemon": "tinkatink",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_grove"
+                ]
+            }
+        },
+        {
+            "id": "aether_igglybuff_1",
+            "pokemon": "igglybuff",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_grove"
+                ]
+            }
+        },
+        {
+            "id": "aether_jigglypuff_1",
+            "pokemon": "jigglypuff",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_grove"
+                ]
+            }
+        },
+        {
+            "id": "aether_smoochum_1",
+            "pokemon": "smoochum",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_grove"
+                ]
+            }
+        },
+        {
+            "id": "aether_hateena_1",
+            "pokemon": "hateena",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_woodland"
+                ]
+            }
+        },
+        {
+            "id": "aether_hattrem_1",
+            "pokemon": "hattrem",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_woodland"
+                ]
+            }
+        },
+        {
+            "id": "aether_togepi_1",
+            "pokemon": "togepi",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_woodland"
+                ]
+            }
+        },
+        {
+            "id": "aether_cleffa_1",
+            "pokemon": "cleffa",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_woodland"
+                ]
+            }
+        },
+        {
+            "id": "aether_clefairy_1",
+            "pokemon": "clefairy",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_woodland"
+                ]
+            }
+        },
+        {
+            "id": "aether_espurr_1",
+            "pokemon": "espurr",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_woodland"
+                ]
+            }
+        },
+        {
+            "id": "aether_altaria_1",
+            "pokemon": "altaria",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_forest"
+                ]
+            }
+        },
+        {
+            "id": "aether_musharna_1",
+            "pokemon": "musharna",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_forest"
+                ]
+            }
+        },
+        {
+            "id": "aether_flogres_1",
+            "pokemon": "florges",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_forest",
+                    "aether:skyroot_meadow",
+                    "aether:skyroot_grove"
+                ]
+            }
+        },
+        {
+            "id": "aether_sudowoodo_1",
+            "pokemon": "sudowoodo",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_forest"
+                ]
+            }
+        },
+        {
+            "id": "aether_bewear_1",
+            "pokemon": "bewear",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_forest"
+                ]
+            }
+        },
+        {
+            "id": "aether_indeedee_1",
+            "pokemon": "indeedee",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_forest",
+                    "aether:skyroot_grove","aether:skyroot_meadow"
+                ]
+            }
+        },
+        {
+            "id": "aether_chansey_1",
+            "pokemon": "chansey",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_meadow"
+                ]
+            }
+        },
+        {
+            "id": "aether_absol_1",
+            "pokemon": "absol",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_meadow"
+                ]
+            }
+        },
+        {
+            "id": "aether_whimsicott_1",
+            "pokemon": "whimsicott",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_meadow"
+                ]
+            }
+        },
+        {
+            "id": "aether_kirlia_1",
+            "pokemon": "kirlia",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_meadow",
+                    "aether:skyroot_woodland"
+                ]
+            }
+        },
+        {
+            "id": "aether_jynx_1",
+            "pokemon": "jynx",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_grove"
+                ]
+            }
+        },
+        {
+            "id": "aether_budew_1",
+            "pokemon": "budew",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_grove"
+                ]
+            }
+        },
+        {
+            "id": "aether_goomy_1",
+            "pokemon": "goomy",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_grove"
+                ]
+            }
+        },
+        {
+            "id": "aether_tinkatuff_1",
+            "pokemon": "tinkatuff",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_grove"
+                ]
+            }
+        },
+        
+        {
+            "id": "aether_hattrene_1",
+            "pokemon": "hattrene",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_woodland"
+                ]
+            }
+        },
+        {
+            "id": "aether_togetic_1",
+            "pokemon": "togetic",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_woodland"
+                ]
+            }
+        },
+        {
+            "id": "aether_togekiss_1",
+            "pokemon": "togekiss",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_woodland"
+                ]
+            }
+        },
+        {
+            "id": "aether_clefable_1",
+            "pokemon": "clefable",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_woodland"
+                ]
+            }
+        },
+        {
+            "id": "aether_meowstic_1",
+            "pokemon": "meowstic",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "40-80",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_woodland"
+                ]
+            }
+        },
+        {
+            "id": "aether_buzzwole_1",
+            "pokemon": "buzzwole",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "50-100",
+            "weight": 5.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_forest"
+                ]
+            }
+        },
+        {
+            "id": "aether_xurkitree_1",
+            "pokemon": "xurkitree",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "50-100",
+            "weight": 5.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_forest"
+                ]
+            }
+        },
+        {
+            "id": "aether_blacephalon_1",
+            "pokemon": "blacephalon",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "50-100",
+            "weight": 5.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_forest",
+                    "aether:skyroot_woodland"
+                ]
+            }
+        },
+        {
+            "id": "aether_iron_bundle_1",
+            "pokemon": "ironbundle",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "50-100",
+            "weight": 5.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_forest"
+                ]
+            }
+        },
+        {
+            "id": "aether_scream_tail_1",
+            "pokemon": "screamtail",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "50-100",
+            "weight": 5.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_forest"
+                ]
+            }
+        },
+        {
+            "id": "aether_roaring_moon_1",
+            "pokemon": "roaringmoon",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "50-100",
+            "weight": 5.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_forest"
+                ]
+            }
+        },
+        {
+            "id": "aether_nihilego_1",
+            "pokemon": "nihilego",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "50-100",
+            "weight": 5.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_meadow"
+                ]
+            }
+        },
+        {
+            "id": "aether_pheromosa_1",
+            "pokemon": "pheromosa",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "50-100",
+            "weight": 5.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_meadow"
+                ]
+            }
+        },
+        {
+            "id": "aether_stakataka_1",
+            "pokemon": "stakataka",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "50-100",
+            "weight": 5.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_meadow",
+                    "aether:skyroot_grove"
+                ]
+            }
+        },
+        {
+            "id": "aether_great_tusk_1",
+            "pokemon": "greattusk",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "50-100",
+            "weight": 5.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_meadow"
+                ]
+            }
+        },
+        {
+            "id": "aether_iron_threads_1",
+            "pokemon": "ironthreads",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "50-100",
+            "weight": 5.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_meadow"
+                ]
+            }
+        },
+        {
+            "id": "aether_sandy_shocks_1",
+            "pokemon": "sandyshocks",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "50-100",
+            "weight": 5.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_meadow"
+                ]
+            }
+        },
+        {
+            "id": "aether_iron_thorns_1",
+            "pokemon": "ironthorns",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "50-100",
+            "weight": 5.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_meadow"
+                ]
+            }
+        },
+        {
+            "id": "aether_celesteela_1",
+            "pokemon": "celesteela",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "50-100",
+            "weight": 5.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_grove"
+                ]
+            }
+        },
+        {
+            "id": "aether_guzzlord_1",
+            "pokemon": "guzzlord",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "50-100",
+            "weight": 5.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_grove"
+                ]
+            }
+        },
+        {
+            "id": "aether_slither_wing_1",
+            "pokemon": "slitherwing",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "50-100",
+            "weight": 5.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_grove"
+                ]
+            }
+        },
+        {
+            "id": "aether_iron_moth_1",
+            "pokemon": "ironmoth",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "50-100",
+            "weight": 5.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_grove"
+                ]
+            }
+        },
+        {
+            "id": "aether_flutter_mane_1",
+            "pokemon": "fluttermane",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "50-100",
+            "weight": 5.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_grove"
+                ]
+            }
+        },
+        {
+            "id": "aether_iron_jugulis_1",
+            "pokemon": "ironjugulis",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "50-100",
+            "weight": 5.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_grove"
+                ]
+            }
+        },
+        {
+            "id": "aether_kartana_1",
+            "pokemon": "kartana",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "50-100",
+            "weight": 5.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_woodland"
+                ]
+            }
+        },
+        {
+            "id": "aether_poipole_1",
+            "pokemon": "poipole",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "50-100",
+            "weight": 5.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_woodland"
+                ]
+            }
+        },
+        {
+            "id": "aether_brute_bonnet_1",
+            "pokemon": "brutebonnet",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "50-100",
+            "weight": 5.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_woodland"
+                ]
+            }
+        },
+        {
+            "id": "aether_iron_hands_1",
+            "pokemon": "ironhands",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "50-100",
+            "weight": 5.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_woodland"
+                ]
+            }
+        },
+        {
+            "id": "aether_iron_valiant_1",
+            "pokemon": "ironvaliant",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "50-100",
+            "weight": 5.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_woodland"
+                ]
+            }
+        },
+        {
+            "id": "aether_walking_wake_1",
+            "pokemon": "walkingwake",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "60-100",
+            "weight": 2.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_forest"
+                ]
+            }
+        },
+        {
+            "id": "aether_iron_leaves_1",
+            "pokemon": "ironleaves",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "60-100",
+            "weight": 2.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_forest"
+                ]
+            }
+        },
+        {
+            "id": "aether_cosmog_1",
+            "pokemon": "cosmog",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "60-100",
+            "weight": 2.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_forest",
+                    "aether:skyroot_meadow",
+                    "aether:skyroot_grove",
+                    "aether:skyroot_woodland"
+                ]
+            }
+        },
+        {
+            "id": "aether_koraidon_1",
+            "pokemon": "koraidon",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "60-100",
+            "weight": 2.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_forest",
+                    "aether:skyroot_grove"
+                ]
+            }
+        },
+        {
+            "id": "aether_miraidon_1",
+            "pokemon": "miraidon",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "60-100",
+            "weight": 2.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_forest",
+                    "aether:skyroot_grove"
+                ]
+            }
+        },
+        {
+            "id": "aether_gouging_fire_1",
+            "pokemon": "gougingfire",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "60-100",
+            "weight": 2.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_meadow"
+                ]
+            }
+        },
+        {
+            "id": "aether_iron_boulder_1",
+            "pokemon": "ironboulder",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "60-100",
+            "weight": 2.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_meadow"
+                ]
+            }
+        },
+        {
+            "id": "aether_necrozma_1",
+            "pokemon": "necrozma",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "60-100",
+            "weight": 2.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_meadow",
+                    "aether:skyroot_woodland"
+                ]
+            }
+        },
+        {
+            "id": "aether_type_null_1",
+            "pokemon": "typenull",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "60-100",
+            "weight": 2.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_meadow",
+                    "aether:skyroot_woodland"
+                ]
+            }
+        },
+        {
+            "id": "aether_raging_bolt_1",
+            "pokemon": "ragingbolt",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "60-100",
+            "weight": 2.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_grove"
+                ]
+            }
+        },
+        {
+            "id": "aether_iron_crown_1",
+            "pokemon": "ironcrown",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "60-100",
+            "weight": 2.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_grove"
+                ]
+            }
+        },
+        {
+            "id": "aether_terapagos_1",
+            "pokemon": "terapagos",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "60-100",
+            "weight": 2.0,
+            "condition": {
+                "biomes": [
+                    "aether:skyroot_woodland"
+                ]
+            }
+        }
+
+
+    ]
+}
+
+        
