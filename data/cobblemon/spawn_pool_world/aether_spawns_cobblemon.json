@@ -1,6 +1,6 @@
 {
     "enabled": true,
-    "neededInstalledMods": [],
+    "neededInstalledMods": ["aether"],
     "neededUninstalledMods": [],
     "spawns": [
         {
